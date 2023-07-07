@@ -35,8 +35,11 @@ _This is italic_
 **This is bold text**
 
 <br>
-<del>This is strike<del>  
+
+<del>This is strike</del>  
 ~~This is strike~~
+
+<br>
 
 `This is inline code`
 
